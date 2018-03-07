@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Click</string>
+    <string name="welcome_message">Hello World, how are you doing ?</string>
+    <string name="clickMe_btn">Click me!</string>
+    <string name="reset_btn">Reset</string>
+    <string name="reverse_btn">Reverse</string>
+    <string name="normal_btn">Normal</string>
+    <string name="big_btn">Big</string>
+    <string name="increment_size">Increment size</string>
+</resources>
